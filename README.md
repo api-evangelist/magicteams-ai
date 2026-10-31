@@ -74,9 +74,37 @@ Everything profiled for magicteams-ai is published on APIs.io rather than in thi
 
 ### APIs (1)
 
-- Magic Teams API
+- [Magic Teams API](https://apis.io/apis/magicteams-ai/magic-teams-api/)
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Magicteams Ai Authentication](https://apis.io/security/magicteams-ai/magicteams-ai-authentication/)
+- [Magicteams Ai Domain Security](https://apis.io/security/magicteams-ai/magicteams-ai-domain-security/)
+- [Magicteams Ai Vulnerability Disclosure](https://apis.io/security/magicteams-ai/magicteams-ai-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Magicteams Ai Scopes](https://apis.io/scopes/magicteams-ai/magicteams-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Magicteams Ai Plans Pricing](https://apis.io/plans/magicteams-ai/magicteams-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Magicteams Ai Rate Limits](https://apis.io/rate-limits/magicteams-ai/magicteams-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -89,7 +117,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/magicteams-ai/](https://apis.io/providers/magicteams-ai/).
+**Kin Score 14.1** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 10.5 |
+
+**Agent readiness 9.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 29.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/magicteams-ai/](https://apis.io/providers/magicteams-ai/).
 
 ## How this profile is made
 
